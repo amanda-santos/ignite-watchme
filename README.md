@@ -46,7 +46,8 @@ Technologies used to develop this project:
 
 ## 🖥 Preview
 
-https://user-images.githubusercontent.com/49074930/147984154-99a8f1ed-b7dd-4a42-9318-56a67ed0e3d6.mp4
+https://user-images.githubusercontent.com/49074930/148808715-0b52e69e-a2a4-4f81-9254-847e9b7b382c.mp4
+
 
 ## 🤔 How to contribute
 
